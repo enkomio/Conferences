@@ -1,7 +1,7 @@
 # HackInbBo Safe Edition - May 2020
 Questa directory contiene le informazioni e il materiale presentato durante la demo online di [HackInbo](https://www.hackinbo.it/) [Safe Edition 2020](https://www.linkedin.com/feed/update/urn:li:activity:6667490582480330753/).
 
-La demo avra' una parte iniziale in cui introdurro' alcuni concetti per poi proseguire con la parte pratica che avra' un taglio prettamente tecnico. La parte iniziale puo' essere seguita anche da chi ha conoscenze base di informatica. Nella seconda parte mostrero' un'analisi su un esempio piu' avanzato.
+La demo avra' una parte iniziale in cui introdurro' alcuni concetti di base per poi proseguire con la parte pratica che avra' un taglio prettamente tecnico. La parte iniziale puo' essere seguita anche da chi ha conoscenze base di informatica. Nella seconda parte mostrero' un'analisi su un esempio piu' avanzato.
 
 _Suggerisco di fare Watch su questo repository per essere informati sugli eventuali aggiornamenti._
 
