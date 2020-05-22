@@ -13,7 +13,7 @@ _Suggerisco di fare Watch su questo repository per essere aggiornati sugli event
 
 * Debugger: Consigliato [x64dbg](https://x64dbg.com/) ma anche [OllyDbg](http://www.ollydbg.de/version2.html) va bene. Il debugger verra' utilizzato per l'analisi dinamica del sample.
 
-* Disassembler: Consigliato [IDA Pro](https://www.hex-rays.com/products/ida/support/download_freeware/). Durante la demo utilizzero' anche il decompiler di IDA Pro il quale e' a pagamento. Chi vuole puo' usare in alternativa [Ghidra](https://ghidra-sre.org/).
+* Disassembler: Consigliato [IDA Pro](https://www.hex-rays.com/products/ida/support/download_freeware/). Durante la demo utilizzero' anche il decompiler di IDA Pro il quale e' a pagamento. Chi vuole puo' l'alternativa gratuita [Ghidra](https://ghidra-sre.org/) il quale comprende anche un ottimo decompiler.
 
 * PE Editor: Utilizzero' un PE editor per modificare alcune caratteristiche del binario. Io utilizzero' [CFF Explorer](https://ntcore.com/?page_id=388), ma anche [pestudio Free](https://www.winitor.com/features) edition va bene.
 
