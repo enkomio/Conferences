@@ -21,3 +21,4 @@ _Suggerisco di fare Watch su questo repository per essere aggiornati sugli event
 Di seguito i sample che verranno analizzati durante la demo. Tutti i samples sono malware reali e si possono trovare su VirusTotal. Possono anche essere scaricati da questo repository. La password del file zip e': *infected*
 
 * [c5fedb78ca5799fed3010812941f0da7222803a444efea0594bec67c6eca1254](https://github.com/enkomio/Conferences/blob/master/HackInBoSafeEditionMay2020/samples/c5fedb78ca5799fed3010812941f0da7222803a444efea0594bec67c6eca1254.zip)
+* [aaa9268b4a80f75eeb58b61cbd745523b1823d5adf54c615ad9ddf6b8fa0e806](https://github.com/enkomio/Conferences/blob/master/HackInBoSafeEditionMay2020/samples/aaa9268b4a80f75eeb58b61cbd745523b1823d5adf54c615ad9ddf6b8fa0e806.zip)
