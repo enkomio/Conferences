@@ -3,7 +3,7 @@ Questa directory contiene informazione e il materiale presentato durante la demo
 
 La demo avra' una parte iniziale in cui introdurro' alcuni concetti per poi proseguire con la parte pratica che avra' un taglio prettamente tecnico. La parte iniziale puo' essere seguita anche da chi ha conoscenze base di informatica. Nella seconda parte mostrero' un'analisi su un esempio piu' avanzato.
 
-_Suggerisco di fare Watch su questo repository per essere aggiornati sugli eventuali aggiornamenti._
+_Suggerisco di fare Watch su questo repository per essere informati sugli eventuali aggiornamenti._
 
 ## Slides
 * TBA
