@@ -15,6 +15,9 @@ _Suggerisco di fare Watch su questo repository per essere informati sugli eventu
 
 * Disassembler: Consigliato [IDA Pro](https://www.hex-rays.com/products/ida/support/download_freeware/). Durante la demo utilizzero' anche il decompiler di IDA Pro il quale e' a pagamento. Chi vuole puo' usare l'alternativa gratuita [Ghidra](https://ghidra-sre.org/) il quale comprende anche un ottimo decompiler.
 
+* IDA Script: 
+    * [crypt_helper.py](https://gist.github.com/alexander-hanel/3d2fbf9b15d34964416f592b60b47d2e) per l'analisi delle funzioni di cifratura.
+
 * PE Editor: Utilizzero' un PE editor per modificare alcune caratteristiche del binario. Io utilizzero' [CFF Explorer](https://ntcore.com/?page_id=388), ma anche [pestudio Free](https://www.winitor.com/features) edition va bene.
 
 ## Samples
