@@ -7,4 +7,4 @@ Ad HackInBo 2018 ho presentato un talk sui malware che hanno come target gli ATM
 
 Durante la presentazione ho mostrato alcune demo e tra di esse una che si riferisce alla [protezione del malware Ploutus.D](http://antonioparata.blogspot.com/2018/02/analyzing-nasty-net-protection-of.html).
 
-In questo repository trovate i codici sorgenti del blog post. Il codice non e' dei migliori ed ero dubbioso sul renderlo pubblico, ma in molti mi avete chiesto dove ho trovato la versione modificata di dnLib. Be', eccola qui :)
+In questo repository trovate i codici sorgenti del blog post. Il codice non e' dei migliori ed ero dubbioso sul renderlo pubblico, ma in molti mi avete chiesto dove trovare la versione modificata di dnLib. Be', [eccola qui](https://github.com/enkomio/Conferences/tree/master/HackInBo2018/Ploutus.D%20Unpacker/dnlib) :)
