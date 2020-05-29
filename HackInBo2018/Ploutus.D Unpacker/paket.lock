@@ -1,0 +1,5 @@
+NUGET
+  remote: https://www.nuget.org/api/v2
+    dnlib (1.6.1)
+    Microsoft.Diagnostics.Runtime (0.9.170809.03)
+    Mono.Cecil (0.9.6.4)

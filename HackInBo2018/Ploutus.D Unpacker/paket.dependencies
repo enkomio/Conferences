@@ -1,0 +1,5 @@
+source https://nuget.org/api/v2
+
+nuget Mono.Cecil -Version 0.9.6.4
+nuget Microsoft.Diagnostics.Runtime >= 0.8.31-beta
+nuget dnlib
