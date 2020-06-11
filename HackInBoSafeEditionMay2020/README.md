@@ -3,10 +3,8 @@ Questa directory contiene le informazioni e il materiale presentato durante la d
 
 La demo avra' una parte iniziale in cui introdurro' alcuni concetti di base per poi proseguire con la parte pratica che avra' un taglio prettamente tecnico. La parte iniziale puo' essere seguita anche da chi ha conoscenze base di informatica. Nella seconda parte mostrero' un'analisi su un esempio piu' avanzato.
 
-_Suggerisco di fare Watch su questo repository per essere informati sugli eventuali aggiornamenti._
-
 ## Slides
-* TBA
+* <a href="https://github.com/enkomio/Conferences/blob/master/HackInBoSafeEditionMay2020/HackInBo%20Safe%20Edition%20May%202020.pdf">Slide</a>
 
 ## Materiale per seguire la demo
 * Software di virtualizzazione: Suggerito VMWare ma va benissimo anche un'alternativa. E' importante far eseguire i sample analizzati all'interno di una Virtual Machine in quanto sono esempi di malware reali e possono causare molti danni al vostro computer.
